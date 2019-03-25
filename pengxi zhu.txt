@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ResNet method https://medium.com/@ducha.aiki/thanks-radek-7th-place-solution-to-hwi-2019-competition-738624e4c885
+=======
+ResNet method https://medium.com/@ducha.aiki/thanks-radek-7th-place-solution-to-hwi-2019-competition-738624e4c885
+>>>>>>> dddd76b42b519e500507be7f10b1a5ca2026a779

@@ -1,0 +1,8 @@
+https://blog.csdn.net/qq_33783896/article/details/80675398
+
+
+no1
+softmax+fixed threshold (<0.9 not good)
+2-class classification
+Senet154	
+https://blog.csdn.net/xjz18298268521/article/details/79078551
